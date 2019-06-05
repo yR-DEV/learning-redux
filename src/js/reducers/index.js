@@ -1,5 +1,5 @@
 const initialState = {
-    articles: []
+    posts: []
 };
 
 rootReducer = (state = initialState, action) => {
